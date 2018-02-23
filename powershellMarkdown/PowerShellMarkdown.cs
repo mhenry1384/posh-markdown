@@ -127,7 +127,6 @@ namespace powershellMarkdown
                     AutoHyperlink = this.AutoHyperlink,
                     AutoNewlines = this.AutoNewlines,
                     EmptyElementSuffix = this.EmptyElementSuffix,
-                    EncodeProblemUrlCharacters = this.EncodeProblemUrlCharacters,
                     LinkEmails = this.LinkEmails,
                     StrictBoldItalic = this.StrictBoldItalic
                 };

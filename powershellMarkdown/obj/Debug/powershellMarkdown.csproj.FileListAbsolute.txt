@@ -5,3 +5,10 @@ c:\dropbox\dropbox\projects\powershellMarkdown\powershellMarkdown\obj\Debug\powe
 c:\dropbox\dropbox\projects\powershellMarkdown\powershellMarkdown\obj\Debug\powershellMarkdown.pdb
 c:\dropbox\dropbox\projects\powershellMarkdown\powershellMarkdown\bin\Debug\MarkdownSharp.dll
 c:\dropbox\dropbox\projects\powershellMarkdown\powershellMarkdown\bin\Debug\MarkdownSharp.pdb
+C:\Users\mhenry\Downloads\posh-markdown-master\powershellMarkdown\bin\Debug\powershellMarkdown.dll
+C:\Users\mhenry\Downloads\posh-markdown-master\powershellMarkdown\bin\Debug\powershellMarkdown.pdb
+C:\Users\mhenry\Downloads\posh-markdown-master\powershellMarkdown\obj\Debug\powershellMarkdown.csprojResolveAssemblyReference.cache
+C:\Users\mhenry\Downloads\posh-markdown-master\powershellMarkdown\obj\Debug\powershellMarkdown.csproj.CoreCompileInputs.cache
+C:\Users\mhenry\Downloads\posh-markdown-master\powershellMarkdown\obj\Debug\powershellMarkdown.dll
+C:\Users\mhenry\Downloads\posh-markdown-master\powershellMarkdown\obj\Debug\powershellMarkdown.pdb
+C:\Users\mhenry\Downloads\posh-markdown-master\powershellMarkdown\bin\Debug\MarkdownSharp.dll
