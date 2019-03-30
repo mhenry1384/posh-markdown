@@ -1,4 +1,8 @@
-﻿#Posh Markdown
+# Differences between this fork and the main fork
+
+Updated to the latest MarkdownSharp as of Feb 2018.
+
+# Posh Markdown
 Posh == PowerShell
 Markdown == Markdown formatting
 
